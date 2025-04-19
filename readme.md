@@ -3,9 +3,6 @@
 ## Introduction
 
 Due to a recent server update, some files were lost. I’ve recovered the two most relevant Python files from my local machine, which are provided here.
-
-This code is part of an improved version of the **PatchCore** method, mainly modifying the distance metric and the anomaly score computation logic.
-
 ---
 
 ## File Overview
